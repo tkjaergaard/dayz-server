@@ -1,0 +1,77 @@
+[
+    {
+        "object": "SurvivorF_Irena",
+        "trader": 0,
+        "name": "Food",
+        "inventory": [
+            "MiniDress_BlueWithDots",
+            "Latex_Leggings",
+            "Ballerinas_Red"
+        ]
+    },
+    {
+        "object": "SurvivorM_Niki",
+        "trader": 1,
+        "name": "Tools",
+        "inventory": [
+            "ConstructionHelmet_Yellow",
+            "QuiltedJacket_Black",
+            "ReflexVest",
+            "MassNBCpantsYellow",
+            "JoggingShoes_White",
+            "Shovel"
+        ]
+    },
+    {
+        "object": "SurvivorM_Peter",
+        "trader": 2,
+        "name": "Weapons",
+        "inventory": [
+            "MVS_Helmet_01_Multicam_Black",
+            "MVS_GorkaJacket_Multicam_Black",
+            "MVS_Combat_Vest_Multicam_Black",
+            "MVS_Belt_Multicam_Black",
+            "MVS_GorkaPants_Multicam_Black",
+            "M14_EFT",
+            "SportGlasses_Black",
+            "CombatBoots_Black"
+        ]
+    },
+    {
+        "object": "SurvivorF_Helga",
+        "trader": 3,
+        "name": "Weapons Supply",
+        "inventory": [
+            "MVS_CombatPants_Black",
+            "MVS_Cap_Black",
+            "MVS_CombatShirt_Black",
+            "SportGlasses_Black",
+            "CombatBoots_Black"
+        ]
+    },
+    {
+        "object": "SurvivorM_Taiki",
+        "trader": 4,
+        "name": "Clothing",
+        "inventory": [
+            "GhillieHood_Woodland",
+            "GhillieTop_Woodland",
+            "Shemagh_Facemask_Green",
+            "AviatorGlasses",
+            "MVS_CombatShirt_ERDL",
+            "MassGorkaInvertFlecktarnPants",
+            "CombatBoots_Black"
+        ]
+    },
+    {
+        "object": "SurvivorM_Kaito",
+        "trader": 5,
+        "name": "Vehicles",
+        "inventory": [
+            "TrackSuitPants_Red",
+            "TrackSuitJacket_Green",
+            "AthleticShoes_Green",
+            "BoonieHat_Black"
+        ]
+    }
+]

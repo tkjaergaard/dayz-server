@@ -1,13 +1,13 @@
 {
     "MapName": "ChernarusPlus",
     "CameraPosition": [
-        9187.4560546875,
-        232.4335174560547,
-        3799.418212890625
+        9139.9658203125,
+        228.4629669189453,
+        3820.2705078125
     ],
     "EditorObjects": [
         {
-            "m_Id": 24,
+            "m_Id": 1,
             "Type": "bldr_Wall_Stone2",
             "DisplayName": "bldr_Wall_Stone2",
             "Position": [
@@ -20,11 +20,11 @@
                 0.0,
                 -0.0
             ],
-            "Scale": 0.9999998211860657,
+            "Scale": 0.9999996423721314,
             "Flags": 30
         },
         {
-            "m_Id": 25,
+            "m_Id": 2,
             "Type": "bldr_Wall_Stone2",
             "DisplayName": "bldr_Wall_Stone2",
             "Position": [
@@ -41,7 +41,7 @@
             "Flags": 30
         },
         {
-            "m_Id": 26,
+            "m_Id": 3,
             "Type": "bldr_Wall_Stone2",
             "DisplayName": "bldr_Wall_Stone2",
             "Position": [
@@ -58,7 +58,7 @@
             "Flags": 30
         },
         {
-            "m_Id": 27,
+            "m_Id": 4,
             "Type": "bldr_misc_concreteblock2_stripes",
             "DisplayName": "bldr_misc_concreteblock2_stripes",
             "Position": [
@@ -75,7 +75,7 @@
             "Flags": 30
         },
         {
-            "m_Id": 28,
+            "m_Id": 5,
             "Type": "bldr_misc_concreteblock2_stripes",
             "DisplayName": "bldr_misc_concreteblock2_stripes",
             "Position": [
@@ -92,7 +92,7 @@
             "Flags": 30
         },
         {
-            "m_Id": 29,
+            "m_Id": 6,
             "Type": "bldr_misc_concreteblock2_stripes",
             "DisplayName": "bldr_misc_concreteblock2_stripes",
             "Position": [
@@ -109,7 +109,7 @@
             "Flags": 30
         },
         {
-            "m_Id": 30,
+            "m_Id": 7,
             "Type": "bldr_misc_concreteblock2_stripes",
             "DisplayName": "bldr_misc_concreteblock2_stripes",
             "Position": [
@@ -126,7 +126,7 @@
             "Flags": 30
         },
         {
-            "m_Id": 31,
+            "m_Id": 8,
             "Type": "bldr_misc_concreteblock2_stripes",
             "DisplayName": "bldr_misc_concreteblock2_stripes",
             "Position": [
@@ -143,7 +143,7 @@
             "Flags": 30
         },
         {
-            "m_Id": 32,
+            "m_Id": 9,
             "Type": "bldr_misc_concreteblock2_stripes",
             "DisplayName": "bldr_misc_concreteblock2_stripes",
             "Position": [
@@ -160,7 +160,7 @@
             "Flags": 30
         },
         {
-            "m_Id": 33,
+            "m_Id": 10,
             "Type": "Land_Lunapark_Shooting_Gallery",
             "DisplayName": "Land_Lunapark_Shooting_Gallery",
             "Position": [
@@ -177,7 +177,7 @@
             "Flags": 30
         },
         {
-            "m_Id": 34,
+            "m_Id": 11,
             "Type": "Land_Misc_Well_Pump_Blue",
             "DisplayName": "Land_Misc_Well_Pump_Blue",
             "Position": [
@@ -194,7 +194,7 @@
             "Flags": 30
         },
         {
-            "m_Id": 35,
+            "m_Id": 12,
             "Type": "Land_FuelStation_Build_Enoch",
             "DisplayName": "Land_FuelStation_Build_Enoch",
             "Position": [
@@ -207,11 +207,11 @@
                 0.0,
                 -0.0
             ],
-            "Scale": 0.9999998211860657,
+            "Scale": 0.9999996423721314,
             "Flags": 30
         },
         {
-            "m_Id": 36,
+            "m_Id": 13,
             "Type": "Land_Wreck_hb01_aban1_police",
             "DisplayName": "Land_Wreck_hb01_aban1_police",
             "Position": [
@@ -220,15 +220,15 @@
                 3806.24609375
             ],
             "Orientation": [
-                12.59999942779541,
+                12.600001335144043,
                 -0.0,
                 -0.0
             ],
-            "Scale": 0.9999997615814209,
+            "Scale": 0.9999995231628418,
             "Flags": 30
         },
         {
-            "m_Id": 37,
+            "m_Id": 14,
             "Type": "bldr_workbench_dz",
             "DisplayName": "bldr_workbench_dz",
             "Position": [
@@ -245,7 +245,7 @@
             "Flags": 30
         },
         {
-            "m_Id": 38,
+            "m_Id": 15,
             "Type": "MCK_KeyGrinder",
             "DisplayName": "MCK_KeyGrinder",
             "Position": [
@@ -262,7 +262,7 @@
             "Flags": 30
         },
         {
-            "m_Id": 39,
+            "m_Id": 16,
             "Type": "Land_Roadblock_WoodenCrate",
             "DisplayName": "Land_Roadblock_WoodenCrate",
             "Position": [
@@ -279,7 +279,7 @@
             "Flags": 30
         },
         {
-            "m_Id": 40,
+            "m_Id": 17,
             "Type": "Land_Roadblock_WoodenCrate",
             "DisplayName": "Land_Roadblock_WoodenCrate",
             "Position": [
@@ -296,7 +296,7 @@
             "Flags": 30
         },
         {
-            "m_Id": 41,
+            "m_Id": 18,
             "Type": "WoodenCrate",
             "DisplayName": "WoodenCrate",
             "Position": [
@@ -309,11 +309,11 @@
                 -0.0,
                 -0.0
             ],
-            "Scale": 0.9999998211860657,
+            "Scale": 0.9999996423721314,
             "Flags": 30
         },
         {
-            "m_Id": 42,
+            "m_Id": 19,
             "Type": "bldr_sign_decal_carstoremig",
             "DisplayName": "bldr_sign_decal_carstoremig",
             "Position": [
@@ -326,11 +326,11 @@
                 0.0,
                 0.0
             ],
-            "Scale": 0.9999998211860657,
+            "Scale": 0.9999996423721314,
             "Flags": 30
         },
         {
-            "m_Id": 43,
+            "m_Id": 20,
             "Type": "bldr_container_2b",
             "DisplayName": "bldr_container_2b",
             "Position": [
@@ -347,7 +347,7 @@
             "Flags": 30
         },
         {
-            "m_Id": 44,
+            "m_Id": 21,
             "Type": "bldr_Garbage_Container2_Closed",
             "DisplayName": "bldr_Garbage_Container2_Closed",
             "Position": [
@@ -364,7 +364,7 @@
             "Flags": 30
         },
         {
-            "m_Id": 45,
+            "m_Id": 22,
             "Type": "bldr_Garbage_Container2_Open",
             "DisplayName": "bldr_Garbage_Container2_Open",
             "Position": [
@@ -377,11 +377,11 @@
                 0.0,
                 -0.0
             ],
-            "Scale": 0.9999998211860657,
+            "Scale": 0.9999997019767761,
             "Flags": 30
         },
         {
-            "m_Id": 46,
+            "m_Id": 23,
             "Type": "Land_Misc_Toilet_Mobile",
             "DisplayName": "Land_Misc_Toilet_Mobile",
             "Position": [
@@ -398,7 +398,7 @@
             "Flags": 30
         },
         {
-            "m_Id": 47,
+            "m_Id": 24,
             "Type": "Land_Misc_Toilet_Mobile",
             "DisplayName": "Land_Misc_Toilet_Mobile",
             "Position": [
@@ -415,7 +415,7 @@
             "Flags": 30
         },
         {
-            "m_Id": 48,
+            "m_Id": 25,
             "Type": "Land_Misc_Toilet_Mobile",
             "DisplayName": "Land_Misc_Toilet_Mobile",
             "Position": [
@@ -432,7 +432,7 @@
             "Flags": 30
         },
         {
-            "m_Id": 49,
+            "m_Id": 26,
             "Type": "Land_City_Stand_News2",
             "DisplayName": "Land_City_Stand_News2",
             "Position": [
@@ -449,7 +449,7 @@
             "Flags": 30
         },
         {
-            "m_Id": 50,
+            "m_Id": 27,
             "Type": "Land_City_Stand_Grocery",
             "DisplayName": "Land_City_Stand_Grocery",
             "Position": [
@@ -462,11 +462,11 @@
                 0.0,
                 0.0
             ],
-            "Scale": 0.9999998211860657,
+            "Scale": 0.9999996423721314,
             "Flags": 30
         },
         {
-            "m_Id": 51,
+            "m_Id": 28,
             "Type": "bldr_vending_machine",
             "DisplayName": "bldr_vending_machine",
             "Position": [
@@ -479,11 +479,11 @@
                 0.0,
                 -0.0
             ],
-            "Scale": 0.9999998211860657,
+            "Scale": 0.9999996423721314,
             "Flags": 30
         },
         {
-            "m_Id": 52,
+            "m_Id": 29,
             "Type": "bldr_sign_food",
             "DisplayName": "bldr_sign_food",
             "Position": [
@@ -496,11 +496,11 @@
                 0.0,
                 -0.0
             ],
-            "Scale": 0.9999998211860657,
+            "Scale": 0.9999996423721314,
             "Flags": 30
         },
         {
-            "m_Id": 53,
+            "m_Id": 30,
             "Type": "bldr_Misc_WoodTable_Indoor",
             "DisplayName": "bldr_Misc_WoodTable_Indoor",
             "Position": [
@@ -513,16 +513,16 @@
                 -0.0,
                 -0.0
             ],
-            "Scale": 0.9999998211860657,
+            "Scale": 0.9999996423721314,
             "Flags": 30
         },
         {
-            "m_Id": 54,
+            "m_Id": 31,
             "Type": "bldr_Misc_WoodTable_Indoor",
             "DisplayName": "bldr_Misc_WoodTable_Indoor",
             "Position": [
                 9153.80078125,
-                223.4658203125,
+                223.4116668701172,
                 3817.493896484375
             ],
             "Orientation": [
@@ -530,11 +530,11 @@
                 0.0,
                 -0.0
             ],
-            "Scale": 0.9999996423721314,
+            "Scale": 0.9999995231628418,
             "Flags": 30
         },
         {
-            "m_Id": 55,
+            "m_Id": 32,
             "Type": "bldr_Garbage_Bin2",
             "DisplayName": "bldr_Garbage_Bin2",
             "Position": [
@@ -551,7 +551,7 @@
             "Flags": 30
         },
         {
-            "m_Id": 56,
+            "m_Id": 33,
             "Type": "bldr_Garbage_Bin2",
             "DisplayName": "bldr_Garbage_Bin2",
             "Position": [
@@ -568,7 +568,7 @@
             "Flags": 30
         },
         {
-            "m_Id": 57,
+            "m_Id": 34,
             "Type": "BarrelHoles_Blue",
             "DisplayName": "BarrelHoles_Blue",
             "Position": [
@@ -585,7 +585,7 @@
             "Flags": 30
         },
         {
-            "m_Id": 58,
+            "m_Id": 35,
             "Type": "BarrelHoles_Blue",
             "DisplayName": "BarrelHoles_Blue",
             "Position": [
@@ -598,11 +598,11 @@
                 -0.0,
                 -0.0
             ],
-            "Scale": 0.9999998211860657,
+            "Scale": 0.9999996423721314,
             "Flags": 30
         },
         {
-            "m_Id": 59,
+            "m_Id": 36,
             "Type": "bldr_wall_indcnc_4_d",
             "DisplayName": "bldr_wall_indcnc_4_d",
             "Position": [
@@ -619,7 +619,7 @@
             "Flags": 30
         },
         {
-            "m_Id": 60,
+            "m_Id": 37,
             "Type": "bldr_wall_gate_kolchoz",
             "DisplayName": "bldr_wall_gate_kolchoz",
             "Position": [
@@ -636,7 +636,7 @@
             "Flags": 30
         },
         {
-            "m_Id": 61,
+            "m_Id": 38,
             "Type": "bldr_wall_indcnc_4",
             "DisplayName": "bldr_wall_indcnc_4",
             "Position": [
@@ -649,11 +649,11 @@
                 0.0,
                 0.0
             ],
-            "Scale": 0.9999998211860657,
+            "Scale": 0.9999996423721314,
             "Flags": 30
         },
         {
-            "m_Id": 62,
+            "m_Id": 39,
             "Type": "bldr_wall_indcnc_4",
             "DisplayName": "bldr_wall_indcnc_4",
             "Position": [
@@ -666,11 +666,11 @@
                 0.0,
                 -0.0
             ],
-            "Scale": 0.9999998211860657,
+            "Scale": 0.9999996423721314,
             "Flags": 30
         },
         {
-            "m_Id": 63,
+            "m_Id": 40,
             "Type": "bldr_wall_indcnc_4",
             "DisplayName": "bldr_wall_indcnc_4",
             "Position": [
@@ -687,7 +687,7 @@
             "Flags": 30
         },
         {
-            "m_Id": 64,
+            "m_Id": 41,
             "Type": "bldr_wall_indcnc_4",
             "DisplayName": "bldr_wall_indcnc_4",
             "Position": [
@@ -704,7 +704,7 @@
             "Flags": 30
         },
         {
-            "m_Id": 65,
+            "m_Id": 42,
             "Type": "bldr_wall_gate_cgry",
             "DisplayName": "bldr_wall_gate_cgry",
             "Position": [
@@ -717,11 +717,11 @@
                 0.0,
                 -0.0
             ],
-            "Scale": 0.9999998211860657,
+            "Scale": 0.9999996423721314,
             "Flags": 30
         },
         {
-            "m_Id": 66,
+            "m_Id": 43,
             "Type": "bldr_wall_indcnc_4",
             "DisplayName": "bldr_wall_indcnc_4",
             "Position": [
@@ -734,11 +734,11 @@
                 -0.0,
                 -0.0
             ],
-            "Scale": 0.9999997615814209,
+            "Scale": 0.9999995827674866,
             "Flags": 30
         },
         {
-            "m_Id": 67,
+            "m_Id": 44,
             "Type": "bldr_wall_indcnc_4",
             "DisplayName": "bldr_wall_indcnc_4",
             "Position": [
@@ -755,7 +755,7 @@
             "Flags": 30
         },
         {
-            "m_Id": 68,
+            "m_Id": 45,
             "Type": "bldr_wall_indcnc_4",
             "DisplayName": "bldr_wall_indcnc_4",
             "Position": [
@@ -772,7 +772,7 @@
             "Flags": 30
         },
         {
-            "m_Id": 69,
+            "m_Id": 46,
             "Type": "bldr_wall_indcnc_4",
             "DisplayName": "bldr_wall_indcnc_4",
             "Position": [
@@ -789,7 +789,7 @@
             "Flags": 30
         },
         {
-            "m_Id": 70,
+            "m_Id": 47,
             "Type": "bldr_wall_indcnc_4",
             "DisplayName": "bldr_wall_indcnc_4",
             "Position": [
@@ -806,7 +806,7 @@
             "Flags": 30
         },
         {
-            "m_Id": 71,
+            "m_Id": 48,
             "Type": "bldr_wall_indcnc_4",
             "DisplayName": "bldr_wall_indcnc_4",
             "Position": [
@@ -823,7 +823,7 @@
             "Flags": 30
         },
         {
-            "m_Id": 72,
+            "m_Id": 49,
             "Type": "bldr_wall_gate_cgry",
             "DisplayName": "bldr_wall_gate_cgry",
             "Position": [
@@ -840,7 +840,7 @@
             "Flags": 30
         },
         {
-            "m_Id": 73,
+            "m_Id": 50,
             "Type": "bldr_wall_indcnc_4",
             "DisplayName": "bldr_wall_indcnc_4",
             "Position": [
@@ -857,7 +857,7 @@
             "Flags": 30
         },
         {
-            "m_Id": 74,
+            "m_Id": 51,
             "Type": "bldr_wall_indcnc_4",
             "DisplayName": "bldr_wall_indcnc_4",
             "Position": [
@@ -874,7 +874,7 @@
             "Flags": 30
         },
         {
-            "m_Id": 75,
+            "m_Id": 52,
             "Type": "bldr_wall_indcnc_4",
             "DisplayName": "bldr_wall_indcnc_4",
             "Position": [
@@ -891,7 +891,7 @@
             "Flags": 30
         },
         {
-            "m_Id": 76,
+            "m_Id": 53,
             "Type": "bldr_wall_indcnc_4",
             "DisplayName": "bldr_wall_indcnc_4",
             "Position": [
@@ -904,11 +904,11 @@
                 0.0,
                 -0.0
             ],
-            "Scale": 0.9999998211860657,
+            "Scale": 0.9999996423721314,
             "Flags": 30
         },
         {
-            "m_Id": 77,
+            "m_Id": 54,
             "Type": "bldr_wall_indcnc_4",
             "DisplayName": "bldr_wall_indcnc_4",
             "Position": [
@@ -925,7 +925,7 @@
             "Flags": 30
         },
         {
-            "m_Id": 78,
+            "m_Id": 55,
             "Type": "bldr_wall_indcnc_4",
             "DisplayName": "bldr_wall_indcnc_4",
             "Position": [
@@ -938,11 +938,11 @@
                 0.0,
                 -0.0
             ],
-            "Scale": 0.9999998211860657,
+            "Scale": 0.9999996423721314,
             "Flags": 30
         },
         {
-            "m_Id": 79,
+            "m_Id": 56,
             "Type": "bldr_wall_indcnc_4",
             "DisplayName": "bldr_wall_indcnc_4",
             "Position": [
@@ -955,11 +955,11 @@
                 0.0,
                 -0.0
             ],
-            "Scale": 0.9999998211860657,
+            "Scale": 0.9999997019767761,
             "Flags": 30
         },
         {
-            "m_Id": 80,
+            "m_Id": 57,
             "Type": "bldr_wall_indcnc_end_2",
             "DisplayName": "bldr_wall_indcnc_end_2",
             "Position": [
@@ -976,7 +976,7 @@
             "Flags": 30
         },
         {
-            "m_Id": 81,
+            "m_Id": 58,
             "Type": "bldr_wall_tincom_pole",
             "DisplayName": "bldr_wall_tincom_pole",
             "Position": [
@@ -993,7 +993,7 @@
             "Flags": 30
         },
         {
-            "m_Id": 82,
+            "m_Id": 59,
             "Type": "bldr_wall_indcnc_4_d",
             "DisplayName": "bldr_wall_indcnc_4_d",
             "Position": [
@@ -1010,7 +1010,7 @@
             "Flags": 30
         },
         {
-            "m_Id": 83,
+            "m_Id": 60,
             "Type": "bldr_wall_indcnc_4_d",
             "DisplayName": "bldr_wall_indcnc_4_d",
             "Position": [
@@ -1023,11 +1023,11 @@
                 0.0,
                 -0.0
             ],
-            "Scale": 0.9999998211860657,
+            "Scale": 0.9999997019767761,
             "Flags": 30
         },
         {
-            "m_Id": 84,
+            "m_Id": 61,
             "Type": "bldr_wall_indcnc_4",
             "DisplayName": "bldr_wall_indcnc_4",
             "Position": [
@@ -1040,11 +1040,11 @@
                 0.0,
                 -0.0
             ],
-            "Scale": 0.9999997615814209,
+            "Scale": 0.9999995827674866,
             "Flags": 30
         },
         {
-            "m_Id": 85,
+            "m_Id": 62,
             "Type": "bldr_wall_indcnc_4",
             "DisplayName": "bldr_wall_indcnc_4",
             "Position": [
@@ -1061,7 +1061,7 @@
             "Flags": 30
         },
         {
-            "m_Id": 86,
+            "m_Id": 63,
             "Type": "bldr_wall_indcnc_4",
             "DisplayName": "bldr_wall_indcnc_4",
             "Position": [
@@ -1078,7 +1078,7 @@
             "Flags": 30
         },
         {
-            "m_Id": 87,
+            "m_Id": 64,
             "Type": "bldr_wall_indcnc_4_d",
             "DisplayName": "bldr_wall_indcnc_4_d",
             "Position": [
@@ -1091,11 +1091,11 @@
                 -0.0,
                 -0.0
             ],
-            "Scale": 0.9999998211860657,
+            "Scale": 0.9999996423721314,
             "Flags": 30
         },
         {
-            "m_Id": 88,
+            "m_Id": 65,
             "Type": "bldr_Wall_CncBarrier_4Block",
             "DisplayName": "bldr_Wall_CncBarrier_4Block",
             "Position": [
@@ -1112,7 +1112,7 @@
             "Flags": 30
         },
         {
-            "m_Id": 89,
+            "m_Id": 66,
             "Type": "BarrelHoles_Blue",
             "DisplayName": "BarrelHoles_Blue",
             "Position": [
@@ -1125,11 +1125,11 @@
                 -0.0,
                 -0.0
             ],
-            "Scale": 0.9999998211860657,
+            "Scale": 0.9999996423721314,
             "Flags": 30
         },
         {
-            "m_Id": 90,
+            "m_Id": 67,
             "Type": "rbldr_road_asf2_6_crosswalk",
             "DisplayName": "rbldr_road_asf2_6_crosswalk",
             "Position": [
@@ -1146,7 +1146,7 @@
             "Flags": 30
         },
         {
-            "m_Id": 91,
+            "m_Id": 68,
             "Type": "Land_RoadCone",
             "DisplayName": "Land_RoadCone",
             "Position": [
@@ -1159,11 +1159,11 @@
                 -0.0,
                 -0.0
             ],
-            "Scale": 0.9999997615814209,
+            "Scale": 0.9999995827674866,
             "Flags": 30
         },
         {
-            "m_Id": 92,
+            "m_Id": 69,
             "Type": "Land_RoadCone",
             "DisplayName": "Land_RoadCone",
             "Position": [
@@ -1176,11 +1176,11 @@
                 -0.0,
                 -0.0
             ],
-            "Scale": 0.9999997615814209,
+            "Scale": 0.9999995827674866,
             "Flags": 30
         },
         {
-            "m_Id": 93,
+            "m_Id": 70,
             "Type": "Land_RoadCone",
             "DisplayName": "Land_RoadCone",
             "Position": [
@@ -1197,7 +1197,7 @@
             "Flags": 30
         },
         {
-            "m_Id": 94,
+            "m_Id": 71,
             "Type": "Land_RoadCone",
             "DisplayName": "Land_RoadCone",
             "Position": [
@@ -1214,7 +1214,7 @@
             "Flags": 30
         },
         {
-            "m_Id": 95,
+            "m_Id": 72,
             "Type": "bldr_misc_concreteblock2",
             "DisplayName": "bldr_misc_concreteblock2",
             "Position": [
@@ -1227,11 +1227,11 @@
                 -0.0,
                 -0.0
             ],
-            "Scale": 0.9999997615814209,
+            "Scale": 0.9999995827674866,
             "Flags": 30
         },
         {
-            "m_Id": 96,
+            "m_Id": 73,
             "Type": "bldr_misc_concreteblock2",
             "DisplayName": "bldr_misc_concreteblock2",
             "Position": [
@@ -1244,11 +1244,11 @@
                 -0.0,
                 -0.0
             ],
-            "Scale": 0.9999997615814209,
+            "Scale": 0.9999995827674866,
             "Flags": 30
         },
         {
-            "m_Id": 97,
+            "m_Id": 74,
             "Type": "bldr_misc_concreteblock2",
             "DisplayName": "bldr_misc_concreteblock2",
             "Position": [
@@ -1261,11 +1261,11 @@
                 -0.0,
                 -0.0
             ],
-            "Scale": 0.9999997615814209,
+            "Scale": 0.9999995827674866,
             "Flags": 30
         },
         {
-            "m_Id": 98,
+            "m_Id": 75,
             "Type": "bldr_misc_concreteblock2",
             "DisplayName": "bldr_misc_concreteblock2",
             "Position": [
@@ -1278,11 +1278,11 @@
                 -0.0,
                 -0.0
             ],
-            "Scale": 0.9999998211860657,
+            "Scale": 0.9999996423721314,
             "Flags": 30
         },
         {
-            "m_Id": 99,
+            "m_Id": 76,
             "Type": "Land_City_Stand_News2",
             "DisplayName": "Land_City_Stand_News2",
             "Position": [
@@ -1295,11 +1295,11 @@
                 0.0,
                 -0.0
             ],
-            "Scale": 0.9999998211860657,
+            "Scale": 0.9999996423721314,
             "Flags": 30
         },
         {
-            "m_Id": 100,
+            "m_Id": 77,
             "Type": "BarrelHoles_Blue",
             "DisplayName": "BarrelHoles_Blue",
             "Position": [
@@ -1312,11 +1312,11 @@
                 -0.0,
                 -0.0
             ],
-            "Scale": 0.9999998211860657,
+            "Scale": 0.9999996423721314,
             "Flags": 30
         },
         {
-            "m_Id": 101,
+            "m_Id": 78,
             "Type": "bldr_Misc_Chair_Camp2",
             "DisplayName": "bldr_Misc_Chair_Camp2",
             "Position": [
@@ -1333,7 +1333,7 @@
             "Flags": 30
         },
         {
-            "m_Id": 102,
+            "m_Id": 79,
             "Type": "bldr_Misc_Chair_Camp2",
             "DisplayName": "bldr_Misc_Chair_Camp2",
             "Position": [
@@ -1350,7 +1350,7 @@
             "Flags": 30
         },
         {
-            "m_Id": 103,
+            "m_Id": 80,
             "Type": "bldr_Misc_Chair_Camp2",
             "DisplayName": "bldr_Misc_Chair_Camp2",
             "Position": [
@@ -1363,11 +1363,11 @@
                 -0.0,
                 -0.0
             ],
-            "Scale": 0.9999997615814209,
+            "Scale": 0.9999995827674866,
             "Flags": 30
         },
         {
-            "m_Id": 104,
+            "m_Id": 81,
             "Type": "ShelterFabric",
             "DisplayName": "ShelterFabric",
             "Position": [
@@ -1384,7 +1384,7 @@
             "Flags": 30
         },
         {
-            "m_Id": 105,
+            "m_Id": 82,
             "Type": "bldr_plnt_b_prunusSpinosa_2s",
             "DisplayName": "bldr_plnt_b_prunusSpinosa_2s",
             "Position": [
@@ -1397,11 +1397,11 @@
                 -0.0,
                 -0.0
             ],
-            "Scale": 0.9999998211860657,
+            "Scale": 0.9999996423721314,
             "Flags": 30
         },
         {
-            "m_Id": 106,
+            "m_Id": 83,
             "Type": "bldr_plnt_b_sambucusNigra_1s",
             "DisplayName": "bldr_plnt_b_sambucusNigra_1s",
             "Position": [
@@ -1414,11 +1414,11 @@
                 -0.0,
                 -0.0
             ],
-            "Scale": 0.9999998211860657,
+            "Scale": 0.9999996423721314,
             "Flags": 30
         },
         {
-            "m_Id": 107,
+            "m_Id": 84,
             "Type": "bldr_plnt_t_FagusSylvatica_2sb_Trail_R",
             "DisplayName": "bldr_plnt_t_FagusSylvatica_2sb_Trail_R",
             "Position": [
@@ -1431,11 +1431,11 @@
                 -0.0,
                 -0.0
             ],
-            "Scale": 0.9999998211860657,
+            "Scale": 0.9999996423721314,
             "Flags": 30
         },
         {
-            "m_Id": 108,
+            "m_Id": 85,
             "Type": "bldr_plnt_t_FagusSylvatica_3d",
             "DisplayName": "bldr_plnt_t_FagusSylvatica_3d",
             "Position": [
@@ -1448,11 +1448,11 @@
                 -0.0,
                 -0.0
             ],
-            "Scale": 0.9999998211860657,
+            "Scale": 0.9999996423721314,
             "Flags": 30
         },
         {
-            "m_Id": 109,
+            "m_Id": 86,
             "Type": "bldr_plnt_t_LarixDecidua_2f",
             "DisplayName": "bldr_plnt_t_LarixDecidua_2f",
             "Position": [
@@ -1465,11 +1465,11 @@
                 -0.0,
                 -0.0
             ],
-            "Scale": 0.9999998211860657,
+            "Scale": 0.9999996423721314,
             "Flags": 30
         },
         {
-            "m_Id": 110,
+            "m_Id": 87,
             "Type": "bldr_plnt_t_LarixDecidua_1f",
             "DisplayName": "bldr_plnt_t_LarixDecidua_1f",
             "Position": [
@@ -1482,11 +1482,11 @@
                 -0.0,
                 -0.0
             ],
-            "Scale": 0.9999998211860657,
+            "Scale": 0.9999996423721314,
             "Flags": 30
         },
         {
-            "m_Id": 111,
+            "m_Id": 88,
             "Type": "bldr_plnt_t_LarixDecidua_1f",
             "DisplayName": "bldr_plnt_t_LarixDecidua_1f",
             "Position": [
@@ -1503,7 +1503,7 @@
             "Flags": 30
         },
         {
-            "m_Id": 116,
+            "m_Id": 89,
             "Type": "bldr_misc_concreteblock2",
             "DisplayName": "bldr_misc_concreteblock2",
             "Position": [
@@ -1520,7 +1520,7 @@
             "Flags": 30
         },
         {
-            "m_Id": 117,
+            "m_Id": 90,
             "Type": "bldr_misc_concreteblock2",
             "DisplayName": "bldr_misc_concreteblock2",
             "Position": [
@@ -1537,7 +1537,7 @@
             "Flags": 30
         },
         {
-            "m_Id": 138,
+            "m_Id": 91,
             "Type": "bldr_misc_concretepanels",
             "DisplayName": "bldr_misc_concretepanels",
             "Position": [
@@ -1550,11 +1550,11 @@
                 0.0,
                 -0.0
             ],
-            "Scale": 0.9999998807907105,
+            "Scale": 0.9999997615814209,
             "Flags": 30
         },
         {
-            "m_Id": 139,
+            "m_Id": 92,
             "Type": "bldr_Panel_Concrete_Small_1",
             "DisplayName": "bldr_Panel_Concrete_Small_1",
             "Position": [
@@ -1571,7 +1571,7 @@
             "Flags": 30
         },
         {
-            "m_Id": 140,
+            "m_Id": 93,
             "Type": "bldr_Panel_Concrete_Small_1",
             "DisplayName": "bldr_Panel_Concrete_Small_1",
             "Position": [
@@ -1580,7 +1580,7 @@
                 3802.97802734375
             ],
             "Orientation": [
-                9.044318199157715,
+                9.044317245483399,
                 -0.0,
                 -0.0
             ],
@@ -1588,7 +1588,7 @@
             "Flags": 30
         },
         {
-            "m_Id": 141,
+            "m_Id": 94,
             "Type": "bldr_Panel_Concrete_Small_1",
             "DisplayName": "bldr_Panel_Concrete_Small_1",
             "Position": [
@@ -1605,7 +1605,7 @@
             "Flags": 30
         },
         {
-            "m_Id": 142,
+            "m_Id": 95,
             "Type": "bldr_Panel_Concrete_Small_1",
             "DisplayName": "bldr_Panel_Concrete_Small_1",
             "Position": [
@@ -1622,7 +1622,7 @@
             "Flags": 30
         },
         {
-            "m_Id": 143,
+            "m_Id": 96,
             "Type": "bldr_Panel_Concrete_Small_1",
             "DisplayName": "bldr_Panel_Concrete_Small_1",
             "Position": [
@@ -1639,7 +1639,7 @@
             "Flags": 30
         },
         {
-            "m_Id": 144,
+            "m_Id": 97,
             "Type": "bldr_Panel_Concrete_Small_1",
             "DisplayName": "bldr_Panel_Concrete_Small_1",
             "Position": [
@@ -1656,7 +1656,7 @@
             "Flags": 30
         },
         {
-            "m_Id": 145,
+            "m_Id": 98,
             "Type": "bldr_Panel_Concrete_Small_1",
             "DisplayName": "bldr_Panel_Concrete_Small_1",
             "Position": [
@@ -1673,7 +1673,7 @@
             "Flags": 30
         },
         {
-            "m_Id": 146,
+            "m_Id": 99,
             "Type": "bldr_Panel_Concrete_Small_1",
             "DisplayName": "bldr_Panel_Concrete_Small_1",
             "Position": [
@@ -1690,7 +1690,7 @@
             "Flags": 30
         },
         {
-            "m_Id": 147,
+            "m_Id": 100,
             "Type": "bldr_Panels_Concrete_Small",
             "DisplayName": "bldr_Panels_Concrete_Small",
             "Position": [
@@ -1707,7 +1707,7 @@
             "Flags": 30
         },
         {
-            "m_Id": 148,
+            "m_Id": 101,
             "Type": "bldr_Panel_Concrete_Small_2",
             "DisplayName": "bldr_Panel_Concrete_Small_2",
             "Position": [
@@ -1724,7 +1724,7 @@
             "Flags": 30
         },
         {
-            "m_Id": 149,
+            "m_Id": 102,
             "Type": "bldr_Panels_Concrete_Small",
             "DisplayName": "bldr_Panels_Concrete_Small",
             "Position": [
@@ -1741,7 +1741,7 @@
             "Flags": 30
         },
         {
-            "m_Id": 150,
+            "m_Id": 103,
             "Type": "bldr_Panel_Concrete_Small_1",
             "DisplayName": "bldr_Panel_Concrete_Small_1",
             "Position": [
@@ -1758,7 +1758,7 @@
             "Flags": 30
         },
         {
-            "m_Id": 151,
+            "m_Id": 104,
             "Type": "bldr_Panel_Concrete_Small_1",
             "DisplayName": "bldr_Panel_Concrete_Small_1",
             "Position": [
@@ -1775,7 +1775,7 @@
             "Flags": 30
         },
         {
-            "m_Id": 152,
+            "m_Id": 105,
             "Type": "bldr_Panel_Concrete_Small_1",
             "DisplayName": "bldr_Panel_Concrete_Small_1",
             "Position": [
@@ -1792,7 +1792,7 @@
             "Flags": 30
         },
         {
-            "m_Id": 153,
+            "m_Id": 106,
             "Type": "bldr_Panel_Concrete_Small_1",
             "DisplayName": "bldr_Panel_Concrete_Small_1",
             "Position": [
@@ -1809,7 +1809,7 @@
             "Flags": 30
         },
         {
-            "m_Id": 154,
+            "m_Id": 107,
             "Type": "bldr_Panel_Concrete_Small_1",
             "DisplayName": "bldr_Panel_Concrete_Small_1",
             "Position": [
@@ -1826,7 +1826,7 @@
             "Flags": 30
         },
         {
-            "m_Id": 155,
+            "m_Id": 108,
             "Type": "bldr_Panel_Concrete_Small_1",
             "DisplayName": "bldr_Panel_Concrete_Small_1",
             "Position": [
@@ -1843,7 +1843,7 @@
             "Flags": 30
         },
         {
-            "m_Id": 156,
+            "m_Id": 109,
             "Type": "bldr_Panel_Concrete_Small_1",
             "DisplayName": "bldr_Panel_Concrete_Small_1",
             "Position": [
@@ -1860,7 +1860,7 @@
             "Flags": 30
         },
         {
-            "m_Id": 157,
+            "m_Id": 110,
             "Type": "bldr_Panel_Concrete_Small_1",
             "DisplayName": "bldr_Panel_Concrete_Small_1",
             "Position": [
@@ -1877,7 +1877,7 @@
             "Flags": 30
         },
         {
-            "m_Id": 158,
+            "m_Id": 111,
             "Type": "bldr_Panel_Concrete_Small_1",
             "DisplayName": "bldr_Panel_Concrete_Small_1",
             "Position": [
@@ -1894,7 +1894,7 @@
             "Flags": 30
         },
         {
-            "m_Id": 159,
+            "m_Id": 112,
             "Type": "bldr_Panel_Concrete_Small_1",
             "DisplayName": "bldr_Panel_Concrete_Small_1",
             "Position": [
@@ -1911,7 +1911,7 @@
             "Flags": 30
         },
         {
-            "m_Id": 160,
+            "m_Id": 113,
             "Type": "bldr_Panel_Concrete_Small_1",
             "DisplayName": "bldr_Panel_Concrete_Small_1",
             "Position": [
@@ -1926,37 +1926,1125 @@
             ],
             "Scale": 1.0,
             "Flags": 30
+        },
+        {
+            "m_Id": 114,
+            "Type": "bldr_BusStation_wall",
+            "DisplayName": "bldr_BusStation_wall",
+            "Position": [
+                9141.63671875,
+                224.8459014892578,
+                3811.847412109375
+            ],
+            "Orientation": [
+                95.39997100830078,
+                0.0,
+                -0.0
+            ],
+            "Scale": 0.9999998211860657,
+            "Flags": 30
+        },
+        {
+            "m_Id": 115,
+            "Type": "bldr_BusStation_wall",
+            "DisplayName": "bldr_BusStation_wall",
+            "Position": [
+                9144.2314453125,
+                224.84161376953126,
+                3811.6025390625
+            ],
+            "Orientation": [
+                95.39997100830078,
+                0.0,
+                -0.0
+            ],
+            "Scale": 0.9999998211860657,
+            "Flags": 30
+        },
+        {
+            "m_Id": 116,
+            "Type": "bldr_BusStation_wall",
+            "DisplayName": "bldr_BusStation_wall",
+            "Position": [
+                9146.970703125,
+                224.8383331298828,
+                3811.318359375
+            ],
+            "Orientation": [
+                95.39997100830078,
+                0.0,
+                -0.0
+            ],
+            "Scale": 0.9999998211860657,
+            "Flags": 30
+        },
+        {
+            "m_Id": 117,
+            "Type": "bldr_BusStation_wall",
+            "DisplayName": "bldr_BusStation_wall",
+            "Position": [
+                9147.00390625,
+                227.89639282226563,
+                3811.466796875
+            ],
+            "Orientation": [
+                95.4000015258789,
+                0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 118,
+            "Type": "bldr_BusStation_wall",
+            "DisplayName": "bldr_BusStation_wall",
+            "Position": [
+                9144.1318359375,
+                227.9022979736328,
+                3811.7373046875
+            ],
+            "Orientation": [
+                95.4000015258789,
+                0.0,
+                -0.0
+            ],
+            "Scale": 0.9999998211860657,
+            "Flags": 30
+        },
+        {
+            "m_Id": 119,
+            "Type": "bldr_BusStation_wall",
+            "DisplayName": "bldr_BusStation_wall",
+            "Position": [
+                9141.2158203125,
+                227.88287353515626,
+                3812.023681640625
+            ],
+            "Orientation": [
+                95.4000015258789,
+                0.0,
+                -0.0
+            ],
+            "Scale": 0.9999998211860657,
+            "Flags": 30
+        },
+        {
+            "m_Id": 121,
+            "Type": "bldr_misc_concreteblock2_damaged",
+            "DisplayName": "bldr_misc_concreteblock2_damaged",
+            "Position": [
+                9169.521484375,
+                222.8931427001953,
+                3837.760986328125
+            ],
+            "Orientation": [
+                -5.40000057220459,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 122,
+            "Type": "bldr_misc_concreteblock2_damaged",
+            "DisplayName": "bldr_misc_concreteblock2_damaged",
+            "Position": [
+                9170.8466796875,
+                222.8954315185547,
+                3847.10546875
+            ],
+            "Orientation": [
+                -21.599998474121095,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 123,
+            "Type": "bldr_misc_concreteblock2_damaged",
+            "DisplayName": "bldr_misc_concreteblock2_damaged",
+            "Position": [
+                9164.658203125,
+                222.8954315185547,
+                3858.2919921875
+            ],
+            "Orientation": [
+                -7.19999361038208,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999998211860657,
+            "Flags": 30
+        },
+        {
+            "m_Id": 124,
+            "Type": "bldr_misc_concreteblock1_end",
+            "DisplayName": "bldr_misc_concreteblock1_end",
+            "Position": [
+                9169.556640625,
+                222.75660705566407,
+                3839.697509765625
+            ],
+            "Orientation": [
+                -144.0000457763672,
+                0.0,
+                -0.0
+            ],
+            "Scale": 0.9999998211860657,
+            "Flags": 30
+        },
+        {
+            "m_Id": 125,
+            "Type": "bldr_roadblock_cncblock",
+            "DisplayName": "bldr_roadblock_cncblock",
+            "Position": [
+                9164.8466796875,
+                223.01341247558595,
+                3857.658203125
+            ],
+            "Orientation": [
+                80.99998474121094,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 126,
+            "Type": "SV_Bulldozer",
+            "DisplayName": "SV_Bulldozer",
+            "Position": [
+                9163.22265625,
+                224.22369384765626,
+                3834.831787109375
+            ],
+            "Orientation": [
+                -63.0,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999998211860657,
+            "Flags": 30
+        },
+        {
+            "m_Id": 127,
+            "Type": "Truck_01_Covered",
+            "DisplayName": "Truck_01_Covered",
+            "Position": [
+                9113.23046875,
+                223.73948669433595,
+                3801.3798828125
+            ],
+            "Orientation": [
+                109.29487609863281,
+                -3.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 128,
+            "Type": "bldr_tent_pallets",
+            "DisplayName": "bldr_tent_pallets",
+            "Position": [
+                9141.8134765625,
+                223.87799072265626,
+                3821.2626953125
+            ],
+            "Orientation": [
+                -12.59999942779541,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999998807907105,
+            "Flags": 30
+        },
+        {
+            "m_Id": 129,
+            "Type": "bldr_Misc_StadiumBenches",
+            "DisplayName": "bldr_Misc_StadiumBenches",
+            "Position": [
+                9153.869140625,
+                223.73841857910157,
+                3823.004638671875
+            ],
+            "Orientation": [
+                91.80004119873047,
+                0.0,
+                -0.0
+            ],
+            "Scale": 0.9999998807907105,
+            "Flags": 30
+        },
+        {
+            "m_Id": 130,
+            "Type": "bldr_plnt_b_crataegusLaevigata_1s",
+            "DisplayName": "bldr_plnt_b_crataegusLaevigata_1s",
+            "Position": [
+                9154.3916015625,
+                225.1970977783203,
+                3783.8369140625
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999998807907105,
+            "Flags": 30
+        },
+        {
+            "m_Id": 131,
+            "Type": "bldr_plnt_b_crataegusLaevigata_1s",
+            "DisplayName": "bldr_plnt_b_crataegusLaevigata_1s",
+            "Position": [
+                9142.02734375,
+                225.23370361328126,
+                3788.4267578125
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999998807907105,
+            "Flags": 30
+        },
+        {
+            "m_Id": 132,
+            "Type": "bldr_plnt_b_crataegusLaevigata_1s",
+            "DisplayName": "bldr_plnt_b_crataegusLaevigata_1s",
+            "Position": [
+                9136.4150390625,
+                225.04429626464845,
+                3799.03173828125
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999998807907105,
+            "Flags": 30
+        },
+        {
+            "m_Id": 133,
+            "Type": "bldr_plnt_b_rosaCanina_1s",
+            "DisplayName": "bldr_plnt_b_rosaCanina_1s",
+            "Position": [
+                9139.71484375,
+                224.63946533203126,
+                3797.93408203125
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999998807907105,
+            "Flags": 30
+        },
+        {
+            "m_Id": 134,
+            "Type": "bldr_plnt_b_rosaCanina_1s",
+            "DisplayName": "bldr_plnt_b_rosaCanina_1s",
+            "Position": [
+                9132.8798828125,
+                224.7933807373047,
+                3789.101806640625
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999998807907105,
+            "Flags": 30
+        },
+        {
+            "m_Id": 135,
+            "Type": "bldr_plnt_b_prunusSpinosa_1s",
+            "DisplayName": "bldr_plnt_b_prunusSpinosa_1s",
+            "Position": [
+                9138.6455078125,
+                225.037841796875,
+                3796.520751953125
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999998807907105,
+            "Flags": 30
+        },
+        {
+            "m_Id": 136,
+            "Type": "bldr_plnt_b_prunusSpinosa_1s",
+            "DisplayName": "bldr_plnt_b_prunusSpinosa_1s",
+            "Position": [
+                9155.1171875,
+                224.86595153808595,
+                3796.147705078125
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999998807907105,
+            "Flags": 30
+        },
+        {
+            "m_Id": 137,
+            "Type": "bldr_plnt_b_sambucusNigra_2s",
+            "DisplayName": "bldr_plnt_b_sambucusNigra_2s",
+            "Position": [
+                9151.0732421875,
+                225.9179229736328,
+                3796.76318359375
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999998807907105,
+            "Flags": 30
+        },
+        {
+            "m_Id": 138,
+            "Type": "bldr_plnt_b_sambucusNigra_2s",
+            "DisplayName": "bldr_plnt_b_sambucusNigra_2s",
+            "Position": [
+                9137.318359375,
+                226.08351135253907,
+                3788.73583984375
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999998807907105,
+            "Flags": 30
+        },
+        {
+            "m_Id": 139,
+            "Type": "bldr_plnt_t_BetulaPendula_3fc",
+            "DisplayName": "bldr_plnt_t_BetulaPendula_3fc",
+            "Position": [
+                9148.658203125,
+                232.96090698242188,
+                3786.313232421875
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999998807907105,
+            "Flags": 30
+        },
+        {
+            "m_Id": 140,
+            "Type": "bldr_plnt_t_FagusSylvatica_2sb_Trail_Y",
+            "DisplayName": "bldr_plnt_t_FagusSylvatica_2sb_Trail_Y",
+            "Position": [
+                9130.53515625,
+                231.25869750976563,
+                3789.195556640625
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999998807907105,
+            "Flags": 30
+        },
+        {
+            "m_Id": 141,
+            "Type": "bldr_plnt_b_prunusSpinosa_1s",
+            "DisplayName": "bldr_plnt_b_prunusSpinosa_1s",
+            "Position": [
+                9125.490234375,
+                225.45578002929688,
+                3788.061279296875
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999998807907105,
+            "Flags": 30
+        },
+        {
+            "m_Id": 150,
+            "Type": "bldr_plnt_p_urtica",
+            "DisplayName": "bldr_plnt_p_urtica",
+            "Position": [
+                9163.685546875,
+                223.4551544189453,
+                3808.333251953125
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999998807907105,
+            "Flags": 30
+        },
+        {
+            "m_Id": 151,
+            "Type": "bldr_plnt_p_urtica",
+            "DisplayName": "bldr_plnt_p_urtica",
+            "Position": [
+                9159.3759765625,
+                223.52113342285157,
+                3803.28076171875
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999998807907105,
+            "Flags": 30
+        },
+        {
+            "m_Id": 152,
+            "Type": "bldr_plnt_p_urtica",
+            "DisplayName": "bldr_plnt_p_urtica",
+            "Position": [
+                9161.04296875,
+                223.41563415527345,
+                3817.01318359375
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999998807907105,
+            "Flags": 30
+        },
+        {
+            "m_Id": 153,
+            "Type": "bldr_plnt_p_urtica",
+            "DisplayName": "bldr_plnt_p_urtica",
+            "Position": [
+                9166.708984375,
+                223.15574645996095,
+                3813.597900390625
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999998807907105,
+            "Flags": 30
+        },
+        {
+            "m_Id": 154,
+            "Type": "bldr_plnt_p_urtica",
+            "DisplayName": "bldr_plnt_p_urtica",
+            "Position": [
+                9165.8349609375,
+                223.0924835205078,
+                3820.227294921875
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999998807907105,
+            "Flags": 30
+        },
+        {
+            "m_Id": 155,
+            "Type": "bldr_plnt_p_urtica",
+            "DisplayName": "bldr_plnt_p_urtica",
+            "Position": [
+                9161.4580078125,
+                223.1544647216797,
+                3825.175048828125
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999998807907105,
+            "Flags": 30
+        },
+        {
+            "m_Id": 156,
+            "Type": "bldr_plnt_t_PiceaAbies_1f",
+            "DisplayName": "bldr_plnt_t_PiceaAbies_1f",
+            "Position": [
+                9114.240234375,
+                227.57699584960938,
+                3808.3701171875
+            ],
+            "Orientation": [
+                -118.27838134765625,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 157,
+            "Type": "bldr_plnt_t_PiceaAbies_1f",
+            "DisplayName": "bldr_plnt_t_PiceaAbies_1f",
+            "Position": [
+                9115.2666015625,
+                227.47879028320313,
+                3810.79931640625
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999998807907105,
+            "Flags": 30
+        },
+        {
+            "m_Id": 158,
+            "Type": "bldr_plnt_t_PiceaAbies_1f",
+            "DisplayName": "bldr_plnt_t_PiceaAbies_1f",
+            "Position": [
+                9116.2919921875,
+                227.3645782470703,
+                3812.763916015625
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999998807907105,
+            "Flags": 30
+        },
+        {
+            "m_Id": 159,
+            "Type": "bldr_plnt_t_PiceaAbies_1f",
+            "DisplayName": "bldr_plnt_t_PiceaAbies_1f",
+            "Position": [
+                9118.212890625,
+                227.30352783203126,
+                3814.5498046875
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999998807907105,
+            "Flags": 30
+        },
+        {
+            "m_Id": 160,
+            "Type": "bldr_plnt_t_PiceaAbies_1f",
+            "DisplayName": "bldr_plnt_t_PiceaAbies_1f",
+            "Position": [
+                9119.076171875,
+                227.2334747314453,
+                3816.95361328125
+            ],
+            "Orientation": [
+                -50.45249557495117,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 161,
+            "Type": "bldr_plnt_t_PiceaAbies_1f",
+            "DisplayName": "bldr_plnt_t_PiceaAbies_1f",
+            "Position": [
+                9118.6044921875,
+                227.2282257080078,
+                3812.421875
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999998807907105,
+            "Flags": 30
+        },
+        {
+            "m_Id": 162,
+            "Type": "bldr_plnt_t_PiceaAbies_1f",
+            "DisplayName": "bldr_plnt_t_PiceaAbies_1f",
+            "Position": [
+                9118.0576171875,
+                227.32510375976563,
+                3809.728515625
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999998807907105,
+            "Flags": 30
+        },
+        {
+            "m_Id": 163,
+            "Type": "bldr_plnt_t_pyrusCommunis_3s",
+            "DisplayName": "bldr_plnt_t_pyrusCommunis_3s",
+            "Position": [
+                9144.259765625,
+                229.10537719726563,
+                3826.0390625
+            ],
+            "Orientation": [
+                -44.9999885559082,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 164,
+            "Type": "bldr_BusStation_roof_big",
+            "DisplayName": "bldr_BusStation_roof_big",
+            "Position": [
+                9113.4638671875,
+                226.1122589111328,
+                3802.74658203125
+            ],
+            "Orientation": [
+                -72.0,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999998807907105,
+            "Flags": 30
+        },
+        {
+            "m_Id": 165,
+            "Type": "bldr_Dead_MassGrave",
+            "DisplayName": "bldr_Dead_MassGrave",
+            "Position": [
+                9103.32421875,
+                224.39451599121095,
+                3785.854736328125
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999998807907105,
+            "Flags": 30
+        },
+        {
+            "m_Id": 166,
+            "Type": "bldr_Hanged_doctor",
+            "DisplayName": "bldr_Hanged_doctor",
+            "Position": [
+                9156.486328125,
+                230.48878479003907,
+                3858.0537109375
+            ],
+            "Orientation": [
+                -151.8380584716797,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 167,
+            "Type": "bldr_plnt_ivy_C2",
+            "DisplayName": "bldr_plnt_ivy_C2",
+            "Position": [
+                9168.17578125,
+                223.24484252929688,
+                3820.62353515625
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 168,
+            "Type": "bldr_plnt_ivy_X",
+            "DisplayName": "bldr_plnt_ivy_X",
+            "Position": [
+                9168.3076171875,
+                223.1925506591797,
+                3812.577880859375
+            ],
+            "Orientation": [
+                -35.99999237060547,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999998807907105,
+            "Flags": 30
+        },
+        {
+            "m_Id": 169,
+            "Type": "bldr_plnt_ivy_X",
+            "DisplayName": "bldr_plnt_ivy_X",
+            "Position": [
+                9161.58203125,
+                223.3575897216797,
+                3805.947998046875
+            ],
+            "Orientation": [
+                -35.99999237060547,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999998807907105,
+            "Flags": 30
+        },
+        {
+            "m_Id": 170,
+            "Type": "bldr_plnt_ivy_X",
+            "DisplayName": "bldr_plnt_ivy_X",
+            "Position": [
+                9164.7431640625,
+                223.3364715576172,
+                3803.05615234375
+            ],
+            "Orientation": [
+                -35.99999237060547,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999998807907105,
+            "Flags": 30
+        },
+        {
+            "m_Id": 171,
+            "Type": "DC_BankingATMGreen",
+            "DisplayName": "DC_BankingATMGreen",
+            "Position": [
+                9134.125,
+                223.25657653808595,
+                3813.43310546875
+            ],
+            "Orientation": [
+                -179.99993896484376,
+                0.0,
+                -0.0
+            ],
+            "Scale": 0.9999998807907105,
+            "Flags": 30
+        },
+        {
+            "m_Id": 174,
+            "Type": "Land_City_Stand_Grocery",
+            "DisplayName": "Land_City_Stand_Grocery",
+            "Position": [
+                9124.349609375,
+                225.3350067138672,
+                3826.219970703125
+            ],
+            "Orientation": [
+                -88.19999694824219,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 175,
+            "Type": "Land_City_Stand_Grocery",
+            "DisplayName": "Land_City_Stand_Grocery",
+            "Position": [
+                9124.349609375,
+                225.3350067138672,
+                3826.219970703125
+            ],
+            "Orientation": [
+                -88.19999694824219,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 178,
+            "Type": "Land_Workshop4",
+            "DisplayName": "Land_Workshop4",
+            "Position": [
+                9121.2724609375,
+                225.55831909179688,
+                3829.58056640625
+            ],
+            "Orientation": [
+                -179.24928283691407,
+                0.0,
+                -0.0
+            ],
+            "Scale": 0.999998927116394,
+            "Flags": 30
+        },
+        {
+            "m_Id": 179,
+            "Type": "Land_Workshop4",
+            "DisplayName": "Land_Workshop4",
+            "Position": [
+                9121.2724609375,
+                225.55831909179688,
+                3829.58056640625
+            ],
+            "Orientation": [
+                -179.24928283691407,
+                0.0,
+                -0.0
+            ],
+            "Scale": 0.999998927116394,
+            "Flags": 30
+        },
+        {
+            "m_Id": 180,
+            "Type": "Land_Workshop4",
+            "DisplayName": "Land_Workshop4",
+            "Position": [
+                9121.2724609375,
+                225.55831909179688,
+                3829.58056640625
+            ],
+            "Orientation": [
+                -179.24928283691407,
+                0.0,
+                -0.0
+            ],
+            "Scale": 0.999998927116394,
+            "Flags": 30
+        },
+        {
+            "m_Id": 187,
+            "Type": "SurvivorF_Helga",
+            "DisplayName": "SurvivorF_Helga",
+            "Position": [
+                9142.7724609375,
+                223.37388610839845,
+                3814.314697265625
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 190,
+            "Type": "SurvivorM_Peter",
+            "DisplayName": "SurvivorM_Peter",
+            "Position": [
+                9144.58984375,
+                224.27200317382813,
+                3814.219970703125
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 191,
+            "Type": "SurvivorM_Taiki",
+            "DisplayName": "SurvivorM_Taiki",
+            "Position": [
+                9138.01953125,
+                224.28500366210938,
+                3815.1201171875
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 192,
+            "Type": "SurvivorM_Niki",
+            "DisplayName": "SurvivorM_Niki",
+            "Position": [
+                9133.6533203125,
+                223.9701385498047,
+                3834.644287109375
+            ],
+            "Orientation": [
+                172.00003051757813,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 198,
+            "Type": "SurvivorF_Irena",
+            "DisplayName": "SurvivorF_Irena",
+            "Position": [
+                9127.091796875,
+                223.72332763671876,
+                3826.54248046875
+            ],
+            "Orientation": [
+                70.0,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 199,
+            "Type": "bldr_misc_concreteblock2_damaged",
+            "DisplayName": "bldr_misc_concreteblock2_damaged",
+            "Position": [
+                9159.0361328125,
+                223.83279418945313,
+                3767.73291015625
+            ],
+            "Orientation": [
+                32.399993896484378,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999998807907105,
+            "Flags": 30
+        },
+        {
+            "m_Id": 200,
+            "Type": "bldr_misc_concreteblock2_damaged",
+            "DisplayName": "bldr_misc_concreteblock2_damaged",
+            "Position": [
+                9158.7734375,
+                223.8242645263672,
+                3758.913818359375
+            ],
+            "Orientation": [
+                8.999996185302735,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999998807907105,
+            "Flags": 30
+        },
+        {
+            "m_Id": 201,
+            "Type": "SurvivorM_Kaito",
+            "DisplayName": "SurvivorM_Kaito",
+            "Position": [
+                9130.9892578125,
+                223.41293334960938,
+                3807.33837890625
+            ],
+            "Orientation": [
+                -109.99998474121094,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 202,
+            "Type": "bldr_Misc_Sunshade",
+            "DisplayName": "bldr_Misc_Sunshade",
+            "Position": [
+                9153.775390625,
+                224.53961181640626,
+                3817.40087890625
+            ],
+            "Orientation": [
+                -9.000007629394532,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 203,
+            "Type": "bldr_Misc_Sunshade",
+            "DisplayName": "bldr_Misc_Sunshade",
+            "Position": [
+                9153.546875,
+                224.56446838378907,
+                3814.31103515625
+            ],
+            "Orientation": [
+                -26.99999237060547,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999998807907105,
+            "Flags": 30
         }
     ],
     "DeletedObjects": [
-        1276653172,
-        1276653263,
         1269588420,
-        1276653296,
-        1276653167,
-        1276653165,
-        1276653269,
-        1276653260,
-        1276653166,
-        1276653258,
-        1268264612,
-        1276653261,
-        1276653160,
-        1276653259,
-        1276653284,
-        1276653183,
-        1276653262,
-        1276653190,
         1276653235,
         1276653264,
-        1276653265,
-        1276653281,
-        1276653270,
-        1276653290,
-        1276653266,
-        1276653169,
-        1276653231,
+        1276653190,
         1276653170,
-        1276653292
+        1276653231,
+        1276653296,
+        1276653270,
+        1276653166,
+        1276653284,
+        1268264612,
+        1276653265,
+        1276653160,
+        1276653262,
+        1276653167,
+        1276653292,
+        1276653172,
+        1276653263,
+        1276653183,
+        1276653165,
+        1276653260,
+        1276653169,
+        1276653290,
+        1276653258,
+        1276653261,
+        1276653269,
+        1276653259,
+        1276653266,
+        1276653281
     ]
 }

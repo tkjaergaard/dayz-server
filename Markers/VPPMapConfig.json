@@ -1,0 +1,55 @@
+{
+    "M_STATIC_MARKER_ARRAY": [
+        {
+            "M_MARKER_NAME": "Khelm Trade Station (Safezone)",
+            "M_ICON_PATH": "VanillaPPMap\\GUI\\Textures\\CustomMapIcons\\waypointeditor_CA.paa",
+            "M_COLOR": [
+                23.0,
+                194.0,
+                63.0
+            ],
+            "M_POSITION": [
+                12297.0,
+                0.0,
+                10899.0
+            ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME": "Puska Trader Station (Safezone)",
+            "M_ICON_PATH": "VanillaPPMap\\GUI\\Textures\\CustomMapIcons\\waypointeditor_CA.paa",
+            "M_COLOR": [
+                23.0,
+                194.0,
+                63.0
+            ],
+            "M_POSITION": [
+                9142.0,
+                0.0,
+                3821.0
+            ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME": "Black Market Trader (No Safezone)",
+            "M_ICON_PATH": "VanillaPPMap\\GUI\\Textures\\CustomMapIcons\\waypointeditor_CA.paa",
+            "M_COLOR": [
+                255.0,
+                0.0,
+                25.0
+            ],
+            "M_POSITION": [
+                1384.5,
+                9261,22,
+                334.121
+            ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        }
+    ],
+    "m_CanUse3DMarkers": 1,
+    "m_OwnPositionMarkerDisabled": 0,
+    "m_ForceMapItemOnly": 0
+}
