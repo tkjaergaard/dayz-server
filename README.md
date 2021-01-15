@@ -19,4 +19,4 @@ This script crawls a .dze file and filters out all *BarrelHoles_** objects and c
 $ node ./bin/parseBarrelsToTraderObjects.js ./EditorFiles/Pustatest.dze
 ```
 
-This will result in a parse *.dze* file and a *traderObjects* file.
+This will result in a parsed edition of the *.dze* file (this is the one that should be put on the server) and a *traderObjects* file.
