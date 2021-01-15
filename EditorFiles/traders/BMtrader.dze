@@ -1,0 +1,368 @@
+{
+    "MapName": "ChernarusPlus",
+    "CameraPosition": [
+        1395.3121337890626,
+        307.5577697753906,
+        9304.0322265625
+    ],
+    "EditorObjects": [
+        {
+            "m_Id": 6,
+            "Type": "bldr_mil_camonet_side_east",
+            "DisplayName": "bldr_mil_camonet_side_east",
+            "Position": [
+                1392.653076171875,
+                306.52520751953127,
+                9321.62890625
+            ],
+            "Orientation": [
+                -0.0000362396240234375,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999998807907105,
+            "Flags": 30
+        },
+        {
+            "m_Id": 7,
+            "Type": "bldr_mil_camonet_side_nato",
+            "DisplayName": "bldr_mil_camonet_side_nato",
+            "Position": [
+                1395.325927734375,
+                306.8640441894531,
+                9319.0771484375
+            ],
+            "Orientation": [
+                80.99996948242188,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 9,
+            "Type": "BarrelHoles_Yellow",
+            "DisplayName": "BarrelHoles_Yellow",
+            "Position": [
+                1393.0980224609376,
+                304.8595275878906,
+                9322.328125
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999998807907105,
+            "Flags": 30
+        },
+        {
+            "m_Id": 10,
+            "Type": "bldr_Hanged_civil",
+            "DisplayName": "bldr_Hanged_civil",
+            "Position": [
+                1426.2119140625,
+                309.1511535644531,
+                9294.7578125
+            ],
+            "Orientation": [
+                -35.99999237060547,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999998807907105,
+            "Flags": 30
+        },
+        {
+            "m_Id": 11,
+            "Type": "bldr_Hanged_doctor",
+            "DisplayName": "bldr_Hanged_doctor",
+            "Position": [
+                1422.53759765625,
+                308.26043701171877,
+                9295.9755859375
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999998807907105,
+            "Flags": 30
+        },
+        {
+            "m_Id": 13,
+            "Type": "SurvivorM_Boris",
+            "DisplayName": "SurvivorM_Boris",
+            "Position": [
+                1395.261474609375,
+                304.9496154785156,
+                9322.0908203125
+            ],
+            "Orientation": [
+                -169.99996948242188,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 14,
+            "Type": "bldr_table_umakart",
+            "DisplayName": "bldr_table_umakart",
+            "Position": [
+                1394.7783203125,
+                305.0948486328125,
+                9321.123046875
+            ],
+            "Orientation": [
+                107.99998474121094,
+                0.0,
+                -0.0
+            ],
+            "Scale": 0.9999998807907105,
+            "Flags": 30
+        },
+        {
+            "m_Id": 15,
+            "Type": "WoodenCrate",
+            "DisplayName": "WoodenCrate",
+            "Position": [
+                1395.3519287109376,
+                305.56011962890627,
+                9320.8447265625
+            ],
+            "Orientation": [
+                53.99998474121094,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999998807907105,
+            "Flags": 30
+        },
+        {
+            "m_Id": 16,
+            "Type": "bldr_Misc_WoodenCrate_3x",
+            "DisplayName": "bldr_Misc_WoodenCrate_3x",
+            "Position": [
+                1388.343505859375,
+                305.635498046875,
+                9322.93359375
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999998807907105,
+            "Flags": 30
+        },
+        {
+            "m_Id": 17,
+            "Type": "bldr_Misc_WoodenCrate_5x",
+            "DisplayName": "bldr_Misc_WoodenCrate_5x",
+            "Position": [
+                1388.2335205078126,
+                305.9302978515625,
+                9314.8720703125
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999998807907105,
+            "Flags": 30
+        },
+        {
+            "m_Id": 18,
+            "Type": "Land_Dead_MassGrave",
+            "DisplayName": "Land_Dead_MassGrave",
+            "Position": [
+                1413.98828125,
+                301.67706298828127,
+                9306.5205078125
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999998807907105,
+            "Flags": 30
+        },
+        {
+            "m_Id": 19,
+            "Type": "Wreck_Mi8",
+            "DisplayName": "Wreck_Mi8",
+            "Position": [
+                1364.6500244140626,
+                293.25537109375,
+                9306.9697265625
+            ],
+            "Orientation": [
+                0.0,
+                -4.000000476837158,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 20,
+            "Type": "bldr_carpet_big_dirty",
+            "DisplayName": "bldr_carpet_big_dirty",
+            "Position": [
+                1394.760009765625,
+                304.92559814453127,
+                9321.0595703125
+            ],
+            "Orientation": [
+                108.0,
+                1.0000001192092896,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 21,
+            "Type": "ShelterStick",
+            "DisplayName": "ShelterStick",
+            "Position": [
+                1389.0972900390626,
+                305.1047668457031,
+                9318.6806640625
+            ],
+            "Orientation": [
+                -89.99992370605469,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999998807907105,
+            "Flags": 30
+        },
+        {
+            "m_Id": 22,
+            "Type": "bldr_Forest_DeerSkeleton_Pile",
+            "DisplayName": "bldr_Forest_DeerSkeleton_Pile",
+            "Position": [
+                1391.9625244140626,
+                305.0232238769531,
+                9319.1171875
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999998807907105,
+            "Flags": 30
+        },
+        {
+            "m_Id": 23,
+            "Type": "bldr_Dead_pile4",
+            "DisplayName": "bldr_Dead_pile4",
+            "Position": [
+                1396.44384765625,
+                305.2632141113281,
+                9315.841796875
+            ],
+            "Orientation": [
+                62.99998092651367,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999998807907105,
+            "Flags": 30
+        },
+        {
+            "m_Id": 29,
+            "Type": "Land_Wreck_Lada_Green",
+            "DisplayName": "Land_Wreck_Lada_Green",
+            "Position": [
+                1505.2879638671876,
+                298.64886474609377,
+                9183.271484375
+            ],
+            "Orientation": [
+                -148.06846618652345,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 30,
+            "Type": "Land_Wreck_S1023_Beige",
+            "DisplayName": "Land_Wreck_S1023_Beige",
+            "Position": [
+                1505.755126953125,
+                298.7467956542969,
+                9186.283203125
+            ],
+            "Orientation": [
+                -72.00003814697266,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 31,
+            "Type": "Land_Wreck_Volha_Police",
+            "DisplayName": "Land_Wreck_Volha_Police",
+            "Position": [
+                1500.7462158203126,
+                298.8401794433594,
+                9186.923828125
+            ],
+            "Orientation": [
+                -35.99999237060547,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999998807907105,
+            "Flags": 30
+        },
+        {
+            "m_Id": 32,
+            "Type": "bldr_stones_sand_group_3",
+            "DisplayName": "bldr_stones_sand_group_3",
+            "Position": [
+                1347.43896484375,
+                291.7221984863281,
+                9322.5888671875
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999998807907105,
+            "Flags": 30
+        },
+        {
+            "m_Id": 33,
+            "Type": "bldr_stone10_moss",
+            "DisplayName": "bldr_stone10_moss",
+            "Position": [
+                1347.6082763671876,
+                292.7832946777344,
+                9321.716796875
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999998807907105,
+            "Flags": 30
+        }
+    ],
+    "DeletedObjects": []
+}

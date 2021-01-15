@@ -9,14 +9,14 @@ This folder contains the .dze files form the DayZ Editor mod. This is used at th
 
 ## Bin
 
-### parseBarrelsToTraderObjects.js
+### build.js
 
-This script crawls a .dze file and filters out all *BarrelHoles_** objects and create a seperate file for the traderObjects.txt config. This makes the barrels constant with fire and non-moveable.
+This script crawls all trader .dze files located in `EditorFiles/traders`. Trader points are configured in the trader config located in the `Treader/config.json` file.
+
+Files are build to the `./dist` folder.
 
 #### Usage
 
 ```bash
-$ node ./bin/parseBarrelsToTraderObjects.js ./EditorFiles/Pustatest.dze
+$ node ./bin/buiild.js
 ```
-
-This will result in a parsed edition of the *.dze* file (this is the one that should be put on the server) and a *traderObjects* file. Both are located in the `./dist` directory.
