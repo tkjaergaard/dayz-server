@@ -246,8 +246,8 @@
         },
         {
             "m_Id": 38,
-            "Type": "MCK_Grinder",
-            "DisplayName": "MCK_Grinder",
+            "Type": "MCK_KeyGrinder",
+            "DisplayName": "MCK_KeyGrinder",
             "Position": [
                 9130.21484375,
                 224.3966827392578,
