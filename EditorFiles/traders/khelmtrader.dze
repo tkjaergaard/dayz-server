@@ -739,8 +739,8 @@
         },
         {
             "m_Id": 44,
-            "Type": "ConstructionHelmet_Yellow",
-            "DisplayName": "ConstructionHelmet_Yellow",
+            "Type": "vbldr_constructionhelmet_g",
+            "DisplayName": "vbldr_constructionhelmet_g",
             "Position": [
                 12329.7314453125,
                 104.65984344482422,
@@ -756,7 +756,7 @@
         },
         {
             "m_Id": 45,
-            "Type": "SledgeHammer",
+            "Type": "vbldr_sledge_hammer",
             "DisplayName": "SledgeHammer",
             "Position": [
                 12332.1806640625,
@@ -841,7 +841,7 @@
         },
         {
             "m_Id": 50,
-            "Type": "Hammer",
+            "Type": "vbldr_hammer",
             "DisplayName": "Hammer",
             "Position": [
                 12331.4375,
@@ -875,7 +875,7 @@
         },
         {
             "m_Id": 52,
-            "Type": "Chainsaw",
+            "Type": "vbldr_chainsaw",
             "DisplayName": "Chainsaw",
             "Position": [
                 12330.3818359375,
