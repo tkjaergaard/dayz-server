@@ -194,23 +194,6 @@
             "Flags": 30
         },
         {
-            "m_Id": 19,
-            "Type": "Wreck_Mi8",
-            "DisplayName": "Wreck_Mi8",
-            "Position": [
-                1364.6500244140626,
-                293.25537109375,
-                9306.9697265625
-            ],
-            "Orientation": [
-                0.0,
-                -4.000000476837158,
-                0.0
-            ],
-            "Scale": 1.0,
-            "Flags": 30
-        },
-        {
             "m_Id": 20,
             "Type": "bldr_carpet_big_dirty",
             "DisplayName": "bldr_carpet_big_dirty",
